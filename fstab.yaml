@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1C_kGETccyY6Lekv_aGguaYqe6QQEKL_D
+  /:
+    url: "https://author-p82852-e711152.adobeaemcloud.com//bin/franklin.delivery/Nichols5973/crosswalk/main"
+    type: "markup"
+    suffix: ".html"
